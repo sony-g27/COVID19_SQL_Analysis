@@ -1,5 +1,11 @@
 # COVID-19 Data Analysis (SQL + Tableau)
 
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL%2FMySQL-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow)
+![Data Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen)
+
+
 ## 📌 Project Overview
 This project demonstrates SQL-based data exploration and dashboard creation on COVID-19 datasets.  
 The objective is to identify infection, recovery, and vaccination trends across regions.
